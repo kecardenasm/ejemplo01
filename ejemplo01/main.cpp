@@ -7,5 +7,6 @@ int main() {
 		std::cout << "Estado Civil: Soltero" << std::endl;
 		std::cout << "Sexo: Masculino" << std::endl;
 		std::cout << "Antecedentes: No" << std::endl;
+		std::cout << "Hijo único: No" << std::endl;
 	return 0;
 }
